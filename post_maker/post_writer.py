@@ -59,11 +59,12 @@ class PostWriter:
         self, diagram_path: Path, technology_frequencies: dict[str, int]
     ) -> None:
         self.md_file.write(self.compose_metadata())
-        self.md_file.new_header(level=1, title=self.title.title())
         self.md_file.write(
             f"![{self.title.lower().replace(' ', '-')}](/{diagram_path})"
         )
-        self.md_file.new_header(level=2, title="Technology Frequencies")
+        self.md_file.new_header(
+            level=2, title="Technology Frequencies", add_table_of_contents="n"
+        )
         table = ["Technology", "Frequency"]
         columns = len(table)
         for technology, frequency in technology_frequencies.items():
