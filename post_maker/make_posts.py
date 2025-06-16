@@ -1,8 +1,26 @@
 from pymongo import DESCENDING
 
 from .diagram_maker import DiagramMaker
-from .mongo_client import COLLECTION_STATISTICS, MongoClient
+from .mongo_client import COLLECTION_STATISTICS, COLLECTION_VACANCIES, MongoClient
 from .post_writer import PostWriter
+
+
+def publish_vacancies() -> None:
+    client = MongoClient
+    client.collection_name = COLLECTION_VACANCIES
+    with MongoClient() as collection_vacancies:
+        for category in collection_vacancies.collection.distinct("category"):
+            vacancies = collection_vacancies.collection.find(
+                {"category": category}, sort={"publication_date": DESCENDING}
+            ).to_list()
+            post_write = PostWriter(
+                title=f"Jobs by category {category}",
+                datetime=vacancies[0]["publication_date"],
+                category=category,
+                subcategory=COLLECTION_VACANCIES,
+                tags=COLLECTION_VACANCIES,
+            )
+            post_write.publish_vacancies(vacancies=vacancies)
 
 
 def main() -> None:
@@ -33,3 +51,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    publish_vacancies()
