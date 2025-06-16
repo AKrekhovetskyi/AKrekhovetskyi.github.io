@@ -10,7 +10,7 @@ tags: [vacancies]
 **``👁️ 233 views • 📩 91 applications • 📡 Source: Djinni``**
 - **Company:** Monitaet Technology
 - **Location:** UA
-- **Experience Required:** 0.0
+- **Experience Required:** 0.0 years
 - **Published:** 13-06-2025 21:58
 
 ---
@@ -20,7 +20,7 @@ tags: [vacancies]
 **``👁️ 18 views • 📩 1 applications • 📡 Source: Djinni``**
 - **Company:** N-iX
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 13-06-2025 19:07
 
 ---
@@ -30,7 +30,7 @@ tags: [vacancies]
 **``👁️ 14 views • 📩 0 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 13-06-2025 16:19
 
 ---
@@ -40,7 +40,7 @@ tags: [vacancies]
 **``👁️ 31 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** ITExpert
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 13-06-2025 15:51
 
 ---
@@ -50,7 +50,7 @@ tags: [vacancies]
 **``👁️ 19 views • 📩 0 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 13-06-2025 14:51
 
 ---
@@ -60,7 +60,7 @@ tags: [vacancies]
 **``👁️ 23 views • 📩 1 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 12-06-2025 16:09
 
 ---
@@ -70,7 +70,7 @@ tags: [vacancies]
 **``👁️ 14 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 12-06-2025 16:03
 
 ---
@@ -80,7 +80,7 @@ tags: [vacancies]
 **``👁️ 144 views • 📩 27 applications • 📡 Source: Djinni``**
 - **Company:** Pine Software
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 12-06-2025 15:57
 
 ---
@@ -89,7 +89,7 @@ tags: [vacancies]
 
 **``👁️ 47 views • 📩 9 applications • 📡 Source: Djinni``**
 - **Company:** Remotivate
-- **Experience Required:** 8.0
+- **Experience Required:** 8.0 years
 - **Published:** 12-06-2025 15:25
 
 ---
@@ -99,7 +99,7 @@ tags: [vacancies]
 **``👁️ 171 views • 📩 66 applications • 📡 Source: Djinni``**
 - **Company:** Algohouse LLC
 - **Location:** Europe
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 12-06-2025 10:03
 
 ---
@@ -109,7 +109,7 @@ tags: [vacancies]
 **``👁️ 33 views • 📩 5 applications • 📡 Source: Djinni``**
 - **Company:** Synergetica
 - **Location:** POL
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 11-06-2025 18:27
 
 ---
@@ -119,7 +119,7 @@ tags: [vacancies]
 **``👁️ 195 views • 📩 63 applications • 📡 Source: Djinni``**
 - **Company:** Logico
 - **Location:** Europe
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 11-06-2025 17:33
 
 ---
@@ -129,7 +129,7 @@ tags: [vacancies]
 **``👁️ 32 views • 📩 3 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 11-06-2025 16:21
 
 ---
@@ -139,7 +139,7 @@ tags: [vacancies]
 **``👁️ 28 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 11-06-2025 13:43
 
 ---
@@ -149,7 +149,7 @@ tags: [vacancies]
 **``👁️ 20 views • 📩 0 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 11-06-2025 13:37
 
 ---
@@ -159,7 +159,7 @@ tags: [vacancies]
 **``👁️ 23 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 11-06-2025 13:31
 
 ---
@@ -169,7 +169,7 @@ tags: [vacancies]
 **``👁️ 24 views • 📩 1 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 11-06-2025 13:11
 
 ---
@@ -179,7 +179,7 @@ tags: [vacancies]
 **``👁️ 150 views • 📩 18 applications • 📡 Source: Djinni``**
 - **Company:** OVERSEER
 - **Location:** UKR
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 11-06-2025 12:30
 
 ---
@@ -189,7 +189,7 @@ tags: [vacancies]
 **``👁️ 51 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** GlobalLogic
 - **Location:** UA
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 10-06-2025 20:30
 
 ---
@@ -199,7 +199,7 @@ tags: [vacancies]
 **``👁️ 83 views • 📩 15 applications • 📡 Source: Djinni``**
 - **Company:** FAVBET Tech
 - **Location:** Europe
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 10-06-2025 15:04
 
 ---
@@ -209,7 +209,7 @@ tags: [vacancies]
 **``👁️ 125 views • 📩 12 applications • 📡 Source: Djinni``**
 - **Company:** Geniusee
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 10-06-2025 13:28
 
 ---
@@ -219,7 +219,7 @@ tags: [vacancies]
 **``👁️ 339 views • 📩 48 applications • 📡 Source: Djinni``**
 - **Company:** BotsCrew
 - **Location:** Europe
-- **Experience Required:** 0.0
+- **Experience Required:** 0.0 years
 - **Published:** 10-06-2025 12:22
 
 ---
@@ -229,7 +229,7 @@ tags: [vacancies]
 **``👁️ 67 views • 📩 17 applications • 📡 Source: Djinni``**
 - **Company:** GlobalLogic
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 10-06-2025 12:00
 
 ---
@@ -239,7 +239,7 @@ tags: [vacancies]
 **``👁️ 55 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** GlobalLogic
 - **Location:** UA
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 10-06-2025 11:14
 
 ---
@@ -249,7 +249,7 @@ tags: [vacancies]
 **``👁️ 82 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** Homy Today
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 09-06-2025 19:10
 
 ---
@@ -259,7 +259,7 @@ tags: [vacancies]
 **``👁️ 216 views • 📩 89 applications • 📡 Source: Djinni``**
 - **Company:** GlobalLogic
 - **Location:** UA
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 09-06-2025 13:56
 
 ---
@@ -269,7 +269,7 @@ tags: [vacancies]
 **``👁️ 34 views • 📩 6 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 09-06-2025 13:06
 
 ---
@@ -279,7 +279,7 @@ tags: [vacancies]
 **``👁️ 22 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** SQRD.tech
 - **Location:** POL
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 09-06-2025 12:42
 
 ---
@@ -289,7 +289,7 @@ tags: [vacancies]
 **``👁️ 28 views • 📩 3 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 09-06-2025 11:52
 
 ---
@@ -298,7 +298,7 @@ tags: [vacancies]
 
 **``👁️ 135 views • 📩 72 applications • 📡 Source: Djinni``**
 - **Company:** NorthSouth Tech
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 09-06-2025 10:25
 
 ---
@@ -308,7 +308,7 @@ tags: [vacancies]
 **``👁️ 233 views • 📩 60 applications • 📡 Source: Djinni``**
 - **Company:** Softsich
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 06-06-2025 18:12
 
 ---
@@ -318,7 +318,7 @@ tags: [vacancies]
 **``👁️ 41 views • 📩 3 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 06-06-2025 16:08
 
 ---
@@ -328,7 +328,7 @@ tags: [vacancies]
 **``👁️ 47 views • 📩 0 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 06-06-2025 14:26
 
 ---
@@ -338,7 +338,7 @@ tags: [vacancies]
 **``👁️ 51 views • 📩 7 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 06-06-2025 14:18
 
 ---
@@ -348,7 +348,7 @@ tags: [vacancies]
 **``👁️ 278 views • 📩 43 applications • 📡 Source: Djinni``**
 - **Company:** NerdySoft
 - **Location:** UA
-- **Experience Required:** 0.0
+- **Experience Required:** 0.0 years
 - **Published:** 06-06-2025 11:04
 
 ---
@@ -358,7 +358,7 @@ tags: [vacancies]
 **``👁️ 160 views • 📩 14 applications • 📡 Source: Djinni``**
 - **Company:** Sigma Software
 - **Location:** POL
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 06-06-2025 10:12
 
 ---
@@ -368,7 +368,7 @@ tags: [vacancies]
 **``👁️ 83 views • 📩 10 applications • 📡 Source: Djinni``**
 - **Company:** N-iX
 - **Location:** POL
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 05-06-2025 18:58
 
 ---
@@ -378,7 +378,7 @@ tags: [vacancies]
 **``👁️ 113 views • 📩 14 applications • 📡 Source: Djinni``**
 - **Company:** Glorium Technologies
 - **Location:** Europe
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 05-06-2025 18:40
 
 ---
@@ -388,7 +388,7 @@ tags: [vacancies]
 **``👁️ 164 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** Sigma Software
 - **Location:** POL
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 05-06-2025 17:18
 
 ---
@@ -398,7 +398,7 @@ tags: [vacancies]
 **``👁️ 74 views • 📩 14 applications • 📡 Source: Djinni``**
 - **Company:** Mobilunity
 - **Location:** UA
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 05-06-2025 16:04
 
 ---
@@ -408,7 +408,7 @@ tags: [vacancies]
 **``👁️ 301 views • 📩 136 applications • 📡 Source: Djinni``**
 - **Company:** AlphaNova
 - **Location:** Europe
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 05-06-2025 15:50
 
 ---
@@ -418,7 +418,7 @@ tags: [vacancies]
 **``👁️ 331 views • 📩 124 applications • 📡 Source: Djinni``**
 - **Company:** AgileVision.io
 - **Location:** UA
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 05-06-2025 15:24
 
 ---
@@ -428,7 +428,7 @@ tags: [vacancies]
 **``👁️ 209 views • 📩 32 applications • 📡 Source: Djinni``**
 - **Company:** Playtech
 - **Location:** UA
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 05-06-2025 15:12
 
 ---
@@ -438,7 +438,7 @@ tags: [vacancies]
 **``👁️ 98 views • 📩 32 applications • 📡 Source: Djinni``**
 - **Company:** NewGMedia
 - **Location:** Europe
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 05-06-2025 14:28
 
 ---
@@ -448,7 +448,7 @@ tags: [vacancies]
 **``👁️ 41 views • 📩 1 applications • 📡 Source: Djinni``**
 - **Company:** N-iX
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 05-06-2025 14:16
 
 ---
@@ -458,7 +458,7 @@ tags: [vacancies]
 **``👁️ 133 views • 📩 30 applications • 📡 Source: Djinni``**
 - **Company:** Octetis
 - **Location:** Europe
-- **Experience Required:** 8.0
+- **Experience Required:** 8.0 years
 - **Published:** 05-06-2025 13:50
 
 ---
@@ -468,7 +468,7 @@ tags: [vacancies]
 **``👁️ 89 views • 📩 28 applications • 📡 Source: Djinni``**
 - **Company:** Kozak Agency
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 05-06-2025 13:22
 
 ---
@@ -478,7 +478,7 @@ tags: [vacancies]
 **``👁️ 335 views • 📩 108 applications • 📡 Source: Djinni``**
 - **Company:** 1WorldOnline R&D Center
 - **Location:** UA
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 05-06-2025 12:51
 
 ---
@@ -488,7 +488,7 @@ tags: [vacancies]
 **``👁️ 131 views • 📩 25 applications • 📡 Source: Djinni``**
 - **Company:** MEGOGO
 - **Location:** UA
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 05-06-2025 09:24
 
 ---
@@ -498,7 +498,7 @@ tags: [vacancies]
 **``👁️ 316 views • 📩 97 applications • 📡 Source: Djinni``**
 - **Company:** NextCode.Tech
 - **Location:** Europe
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 04-06-2025 13:54
 
 ---
@@ -508,7 +508,7 @@ tags: [vacancies]
 **``👁️ 181 views • 📩 49 applications • 📡 Source: Djinni``**
 - **Company:** Reward Holdings Limited
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 04-06-2025 08:18
 
 ---
@@ -518,7 +518,7 @@ tags: [vacancies]
 **``👁️ 263 views • 📩 118 applications • 📡 Source: Djinni``**
 - **Company:** P-Product
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 03-06-2025 19:12
 
 ---
@@ -528,7 +528,7 @@ tags: [vacancies]
 **``👁️ 315 views • 📩 117 applications • 📡 Source: Djinni``**
 - **Company:** Drіріfy.io
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 03-06-2025 14:36
 
 ---
@@ -538,7 +538,7 @@ tags: [vacancies]
 **``👁️ 98 views • 📩 17 applications • 📡 Source: Djinni``**
 - **Company:** NextCode.Tech
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 03-06-2025 12:16
 
 ---
@@ -548,7 +548,7 @@ tags: [vacancies]
 **``👁️ 71 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 03-06-2025 10:22
 
 ---
@@ -558,7 +558,7 @@ tags: [vacancies]
 **``👁️ 291 views • 📩 65 applications • 📡 Source: Djinni``**
 - **Company:** TJHelpers Ukraine
 - **Location:** Europe
-- **Experience Required:** 0.5
+- **Experience Required:** 0.5 years
 - **Published:** 03-06-2025 09:36
 
 ---
@@ -568,7 +568,7 @@ tags: [vacancies]
 **``👁️ 227 views • 📩 105 applications • 📡 Source: Djinni``**
 - **Company:** Silverlabs
 - **Location:** UA
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 03-06-2025 02:16
 
 ---
@@ -577,7 +577,7 @@ tags: [vacancies]
 
 **``👁️ 154 views • 📩 45 applications • 📡 Source: Djinni``**
 - **Company:** Rollo
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 03-06-2025 00:06
 
 ---
@@ -587,7 +587,7 @@ tags: [vacancies]
 **``👁️ 290 views • 📩 118 applications • 📡 Source: Djinni``**
 - **Company:** Processica
 - **Location:** UA
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 02-06-2025 22:16
 
 ---
@@ -597,7 +597,7 @@ tags: [vacancies]
 **``👁️ 84 views • 📩 20 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 02-06-2025 21:54
 
 ---
@@ -607,7 +607,7 @@ tags: [vacancies]
 **``👁️ 85 views • 📩 19 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 02-06-2025 21:23
 
 ---
@@ -616,7 +616,7 @@ tags: [vacancies]
 
 **``👁️ 72 views • 📩 4 applications • 📡 Source: Djinni``**
 - **Company:** Bluepes
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 02-06-2025 20:40
 
 ---
@@ -626,7 +626,7 @@ tags: [vacancies]
 **``👁️ 114 views • 📩 14 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 2.5
+- **Experience Required:** 2.5 years
 - **Published:** 02-06-2025 19:08
 
 ---
@@ -636,7 +636,7 @@ tags: [vacancies]
 **``👁️ 196 views • 📩 63 applications • 📡 Source: Djinni``**
 - **Company:** NextChallenge
 - **Location:** Europe
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 02-06-2025 18:54
 
 ---
@@ -646,7 +646,7 @@ tags: [vacancies]
 **``👁️ 126 views • 📩 19 applications • 📡 Source: Djinni``**
 - **Company:** Ardas
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 02-06-2025 17:20
 
 ---
@@ -655,7 +655,7 @@ tags: [vacancies]
 
 **``👁️ 269 views • 📩 127 applications • 📡 Source: Djinni``**
 - **Company:** New Wave Devs
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 02-06-2025 16:48
 
 ---
@@ -665,7 +665,7 @@ tags: [vacancies]
 **``👁️ 165 views • 📩 41 applications • 📡 Source: Djinni``**
 - **Company:** TechFabric
 - **Location:** Europe
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 02-06-2025 16:44
 
 ---
@@ -675,7 +675,7 @@ tags: [vacancies]
 **``👁️ 85 views • 📩 14 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 02-06-2025 12:58
 
 ---
@@ -685,7 +685,7 @@ tags: [vacancies]
 **``👁️ 161 views • 📩 28 applications • 📡 Source: Djinni``**
 - **Company:** Fundomate Technologies Inc.
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 02-06-2025 12:22
 
 ---
@@ -695,7 +695,7 @@ tags: [vacancies]
 **``👁️ 138 views • 📩 44 applications • 📡 Source: Djinni``**
 - **Company:** MASCODE
 - **Location:** Europe
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 01-06-2025 17:24
 
 ---
@@ -705,7 +705,7 @@ tags: [vacancies]
 **``👁️ 103 views • 📩 20 applications • 📡 Source: Djinni``**
 - **Company:** Proxet
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 01-06-2025 03:12
 
 ---
@@ -715,7 +715,7 @@ tags: [vacancies]
 **``👁️ 74 views • 📩 15 applications • 📡 Source: Djinni``**
 - **Company:** ITExpert
 - **Location:** Europe
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 30-05-2025 19:14
 
 ---
@@ -725,7 +725,7 @@ tags: [vacancies]
 **``👁️ 125 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** Delasport
 - **Location:** UA
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 30-05-2025 16:22
 
 ---
@@ -734,7 +734,7 @@ tags: [vacancies]
 
 **``👁️ 144 views • 📩 15 applications • 📡 Source: Djinni``**
 - **Company:** Elogic
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 30-05-2025 13:22
 
 ---
@@ -744,7 +744,7 @@ tags: [vacancies]
 **``👁️ 326 views • 📩 50 applications • 📡 Source: Djinni``**
 - **Company:** InnovatelU
 - **Location:** Europe
-- **Experience Required:** 0.0
+- **Experience Required:** 0.0 years
 - **Published:** 30-05-2025 10:22
 
 ---
@@ -754,7 +754,7 @@ tags: [vacancies]
 **``👁️ 263 views • 📩 77 applications • 📡 Source: Djinni``**
 - **Company:** Olive
 - **Location:** Europe
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 30-05-2025 08:38
 
 ---
@@ -764,7 +764,7 @@ tags: [vacancies]
 **``👁️ 210 views • 📩 12 applications • 📡 Source: Djinni``**
 - **Company:** GlobalLogic
 - **Location:** POL
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 29-05-2025 14:14
 
 ---
@@ -774,7 +774,7 @@ tags: [vacancies]
 **``👁️ 130 views • 📩 42 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 29-05-2025 12:16
 
 ---
@@ -784,7 +784,7 @@ tags: [vacancies]
 **``👁️ 365 views • 📩 83 applications • 📡 Source: Djinni``**
 - **Company:** dotcode
 - **Location:** UKR
-- **Experience Required:** 0.5
+- **Experience Required:** 0.5 years
 - **Published:** 29-05-2025 11:28
 
 ---
@@ -794,7 +794,7 @@ tags: [vacancies]
 **``👁️ 183 views • 📩 58 applications • 📡 Source: Djinni``**
 - **Company:** OTP Digital
 - **Location:** UA
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 29-05-2025 08:10
 
 ---
@@ -804,7 +804,7 @@ tags: [vacancies]
 **``👁️ 137 views • 📩 41 applications • 📡 Source: Djinni``**
 - **Company:** infologiQ
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 28-05-2025 17:47
 
 ---
@@ -814,7 +814,7 @@ tags: [vacancies]
 **``👁️ 292 views • 📩 108 applications • 📡 Source: Djinni``**
 - **Company:** OTAKOYI
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 28-05-2025 13:22
 
 ---
@@ -824,7 +824,7 @@ tags: [vacancies]
 **``👁️ 219 views • 📩 78 applications • 📡 Source: Djinni``**
 - **Company:** ooblee
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 28-05-2025 13:00
 
 ---
@@ -834,7 +834,7 @@ tags: [vacancies]
 **``👁️ 61 views • 📩 7 applications • 📡 Source: Djinni``**
 - **Company:** GlobalLogic
 - **Location:** POL
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 28-05-2025 11:48
 
 ---
@@ -844,7 +844,7 @@ tags: [vacancies]
 **``👁️ 127 views • 📩 9 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 28-05-2025 11:18
 
 ---
@@ -853,7 +853,7 @@ tags: [vacancies]
 
 **``👁️ 277 views • 📩 90 applications • 📡 Source: Djinni``**
 - **Company:** Homy Today
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 27-05-2025 19:36
 
 ---
@@ -863,7 +863,7 @@ tags: [vacancies]
 **``👁️ 63 views • 📩 3 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 27-05-2025 13:54
 
 ---
@@ -873,7 +873,7 @@ tags: [vacancies]
 **``👁️ 278 views • 📩 66 applications • 📡 Source: Djinni``**
 - **Company:** OD-software
 - **Location:** Europe
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 27-05-2025 13:18
 
 ---
@@ -883,7 +883,7 @@ tags: [vacancies]
 **``👁️ 103 views • 📩 27 applications • 📡 Source: Djinni``**
 - **Company:** Silverlabs
 - **Location:** UA
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 27-05-2025 02:24
 
 ---
@@ -892,7 +892,7 @@ tags: [vacancies]
 
 **``👁️ 238 views • 📩 44 applications • 📡 Source: Djinni``**
 - **Location:** Europe
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 26-05-2025 18:31
 
 ---
@@ -902,7 +902,7 @@ tags: [vacancies]
 **``👁️ 38 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Gemicle
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 26-05-2025 11:58
 
 ---
@@ -912,7 +912,7 @@ tags: [vacancies]
 **``👁️ 89 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** dotcode
 - **Location:** UKR
-- **Experience Required:** 3.5
+- **Experience Required:** 3.5 years
 - **Published:** 26-05-2025 11:56
 
 ---
@@ -922,7 +922,7 @@ tags: [vacancies]
 **``👁️ 102 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** Alliance Digital
 - **Location:** UA
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 26-05-2025 11:50
 
 ---
@@ -932,7 +932,7 @@ tags: [vacancies]
 **``👁️ 99 views • 📩 1 applications • 📡 Source: Djinni``**
 - **Company:** InoXoft
 - **Location:** USA
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 26-05-2025 11:42
 
 ---
@@ -942,7 +942,7 @@ tags: [vacancies]
 **``👁️ 203 views • 📩 30 applications • 📡 Source: Djinni``**
 - **Company:** Phokus (CodePhusion branch)
 - **Location:** Europe
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 23-05-2025 15:52
 
 ---
@@ -952,7 +952,7 @@ tags: [vacancies]
 **``👁️ 556 views • 📩 112 applications • 📡 Source: Djinni``**
 - **Company:** GD Next
 - **Location:** UA
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 23-05-2025 14:10
 
 ---
@@ -962,7 +962,7 @@ tags: [vacancies]
 **``👁️ 134 views • 📩 11 applications • 📡 Source: Djinni``**
 - **Company:** mono
 - **Location:** Europe
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 23-05-2025 14:00
 
 ---
@@ -971,7 +971,7 @@ tags: [vacancies]
 
 **``👁️ 290 views • 📩 34 applications • 📡 Source: Djinni``**
 - **Company:** mono
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 23-05-2025 13:56
 
 ---
@@ -981,7 +981,7 @@ tags: [vacancies]
 **``👁️ 529 views • 📩 83 applications • 📡 Source: Djinni``**
 - **Company:** SoftIndex LLC
 - **Location:** UA
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 23-05-2025 12:33
 
 ---
@@ -991,7 +991,7 @@ tags: [vacancies]
 **``👁️ 239 views • 📩 5 applications • 📡 Source: Djinni``**
 - **Company:** Neptunes
 - **Location:** Europe
-- **Experience Required:** 1.0
+- **Experience Required:** 1.0 years
 - **Published:** 22-05-2025 15:14
 
 ---
@@ -1001,7 +1001,7 @@ tags: [vacancies]
 **``👁️ 149 views • 📩 10 applications • 📡 Source: Djinni``**
 - **Company:** N-iX
 - **Location:** Europe
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 21-05-2025 19:34
 
 ---
@@ -1011,7 +1011,7 @@ tags: [vacancies]
 **``👁️ 123 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** ITExpert
 - **Location:** UA
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 21-05-2025 15:08
 
 ---
@@ -1021,7 +1021,7 @@ tags: [vacancies]
 **``👁️ 227 views • 📩 75 applications • 📡 Source: Djinni``**
 - **Company:** Alliance Digital
 - **Location:** UA
-- **Experience Required:** 3.0
+- **Experience Required:** 3.0 years
 - **Published:** 21-05-2025 10:06
 
 ---
@@ -1031,7 +1031,7 @@ tags: [vacancies]
 **``👁️ 28 views • 📩 1 applications • 📡 Source: Djinni``**
 - **Company:** Delasport
 - **Location:** UA
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 20-05-2025 17:39
 
 ---
@@ -1041,7 +1041,7 @@ tags: [vacancies]
 **``👁️ 132 views • 📩 17 applications • 📡 Source: Djinni``**
 - **Company:** Drawer.AI
 - **Location:** Europe
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 20-05-2025 15:47
 
 ---
@@ -1051,7 +1051,7 @@ tags: [vacancies]
 **``👁️ 51 views • 📩 9 applications • 📡 Source: Djinni``**
 - **Company:** Commit Offshore
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 20-05-2025 13:13
 
 ---
@@ -1061,7 +1061,7 @@ tags: [vacancies]
 **``👁️ 45 views • 📩 0 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 20-05-2025 12:43
 
 ---
@@ -1071,7 +1071,7 @@ tags: [vacancies]
 **``👁️ 121 views • 📩 37 applications • 📡 Source: Djinni``**
 - **Company:** ARRISE
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 20-05-2025 11:45
 
 ---
@@ -1081,7 +1081,7 @@ tags: [vacancies]
 **``👁️ 139 views • 📩 26 applications • 📡 Source: Djinni``**
 - **Company:** Smart Tek Solutions, LLC
 - **Location:** Europe
-- **Experience Required:** 6.0
+- **Experience Required:** 6.0 years
 - **Published:** 20-05-2025 11:41
 
 ---
@@ -1091,7 +1091,7 @@ tags: [vacancies]
 **``👁️ 179 views • 📩 20 applications • 📡 Source: Djinni``**
 - **Company:** UAPP
 - **Location:** UKR
-- **Experience Required:** 2.0
+- **Experience Required:** 2.0 years
 - **Published:** 20-05-2025 11:29
 
 ---
@@ -1101,7 +1101,7 @@ tags: [vacancies]
 **``👁️ 95 views • 📩 8 applications • 📡 Source: Djinni``**
 - **Company:** ARRISE
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 20-05-2025 11:23
 
 ---
@@ -1111,7 +1111,7 @@ tags: [vacancies]
 **``👁️ 85 views • 📩 8 applications • 📡 Source: Djinni``**
 - **Company:** ARRISE
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 20-05-2025 11:03
 
 ---
@@ -1121,7 +1121,7 @@ tags: [vacancies]
 **``👁️ 54 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** ARRISE
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 20-05-2025 11:01
 
 ---
@@ -1131,7 +1131,7 @@ tags: [vacancies]
 **``👁️ 75 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 19-05-2025 18:29
 
 ---
@@ -1141,7 +1141,7 @@ tags: [vacancies]
 **``👁️ 49 views • 📩 3 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 7.0
+- **Experience Required:** 7.0 years
 - **Published:** 19-05-2025 17:37
 
 ---
@@ -1151,7 +1151,7 @@ tags: [vacancies]
 **``👁️ 153 views • 📩 19 applications • 📡 Source: Djinni``**
 - **Company:** Adaptiq
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 19-05-2025 17:23
 
 ---
@@ -1161,7 +1161,7 @@ tags: [vacancies]
 **``👁️ 132 views • 📩 23 applications • 📡 Source: Djinni``**
 - **Company:** Proxet
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 19-05-2025 14:29
 
 ---
@@ -1171,7 +1171,7 @@ tags: [vacancies]
 **``👁️ 42 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Luxoft
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 19-05-2025 13:31
 
 ---
@@ -1181,7 +1181,7 @@ tags: [vacancies]
 **``👁️ 112 views • 📩 20 applications • 📡 Source: Djinni``**
 - **Company:** GD Next
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 16-05-2025 17:25
 
 ---
@@ -1190,7 +1190,7 @@ tags: [vacancies]
 
 **``👁️ 528 views • 📩 169 applications • 📡 Source: Djinni``**
 - **Company:** Confitech Dienstleistungs GmbH
-- **Experience Required:** 4.0
+- **Experience Required:** 4.0 years
 - **Published:** 15-05-2025 17:03
 
 ---
@@ -1200,7 +1200,7 @@ tags: [vacancies]
 **``👁️ 320 views • 📩 131 applications • 📡 Source: Djinni``**
 - **Company:** Yotalabs
 - **Location:** Europe
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 15-05-2025 15:29
 
 ---
@@ -1210,7 +1210,7 @@ tags: [vacancies]
 **``👁️ 24 views • 📩 2 applications • 📡 Source: Djinni``**
 - **Company:** Gemicle
 - **Location:** UA
-- **Experience Required:** 5.0
+- **Experience Required:** 5.0 years
 - **Published:** 15-05-2025 10:42
 
 ---
