@@ -1,7 +1,7 @@
 ---
 title: Trending technologies in the field of Python
 date: 2025-06-14T14:09:42.612515+03:00
-categories: [Python]
+categories: [Python, Statistics]
 tags: [statistics]
 ---
 
