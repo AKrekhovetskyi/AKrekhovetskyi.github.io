@@ -55,7 +55,7 @@ class PostWriter:
         with open(self.file_path, "w", encoding="utf-8") as f:
             f.writelines(lines)
 
-    def write_about_statistics(
+    def publish_statistics(
         self, diagram_path: Path, technology_frequencies: dict[str, int]
     ) -> None:
         self.md_file.write(self.compose_metadata())
