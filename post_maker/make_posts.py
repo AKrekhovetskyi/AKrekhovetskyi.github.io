@@ -44,7 +44,7 @@ def publish_vacancy_statistics() -> None:
                 tags=COLLECTION_STATISTICS,
             )
             diagram_path = diagram_maker.make_tech_frequency_diagram(statistics)
-            post_write.write_about_statistics(
+            post_write.publish_statistics(
                 diagram_path=diagram_path,
                 technology_frequencies=statistics["technology_frequency"],
             )
