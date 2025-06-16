@@ -92,7 +92,7 @@ class PostWriter:
             if vacancy.get("address"):
                 self.md_file.new_line(f"- **Location:** {vacancy['address']}")
             self.md_file.new_line(
-                f"- **Experience Required:** {vacancy['years_of_experience']}"
+                f"- **Experience Required:** {vacancy['years_of_experience']} years"
             )
             published = datetime.fromisoformat(vacancy["publication_date"]).strftime(
                 "%d-%m-%Y %H:%M"
