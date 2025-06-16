@@ -1,7 +1,7 @@
 ---
 title: Trending technologies in the field of Java
 date: 2025-06-14T16:27:52.415437+03:00
-categories: [Java]
+categories: [Java, Statistics]
 tags: [statistics]
 ---
 

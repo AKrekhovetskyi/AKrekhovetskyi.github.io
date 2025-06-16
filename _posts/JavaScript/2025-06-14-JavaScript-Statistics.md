@@ -1,7 +1,7 @@
 ---
 title: Trending technologies in the field of JavaScript
 date: 2025-06-14T16:27:32.067028+03:00
-categories: [JavaScript]
+categories: [JavaScript, Statistics]
 tags: [statistics]
 ---
 
