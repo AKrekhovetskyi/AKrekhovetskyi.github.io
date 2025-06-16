@@ -23,7 +23,7 @@ def publish_vacancies() -> None:
             post_write.publish_vacancies(vacancies=vacancies)
 
 
-def main() -> None:
+def publish_vacancy_statistics() -> None:
     client = MongoClient
     client.collection_name = COLLECTION_STATISTICS
     with MongoClient() as collection_stats:
@@ -40,6 +40,7 @@ def main() -> None:
                 title=f"Trending technologies in the field of {statistics['category']}",
                 datetime=statistics["upsert_datetime"],
                 category=statistics["category"],
+                subcategory=COLLECTION_STATISTICS,
                 tags=COLLECTION_STATISTICS,
             )
             diagram_path = diagram_maker.make_tech_frequency_diagram(statistics)
@@ -50,5 +51,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    publish_vacancy_statistics()
     publish_vacancies()
