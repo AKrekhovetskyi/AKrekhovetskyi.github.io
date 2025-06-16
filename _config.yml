@@ -16,10 +16,10 @@ timezone: Europe/Kiev
 
 title: TechTrendStat
 
-tagline: Your window to the world of cutting-edge technologies and more # it will display as the subtitle
+tagline: A window into the world of cutting-edge technology statistics and more # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  technical statistics trend technologies
+  technical statistics trend technologies vacancies
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,8 @@ url: "https://AKrekhovetskyi.github.io"
 github:
   username: AKrekhovetskyi # change to your GitHub username
 
-twitter:
-  username: akrechovetskiy # change to your Twitter username
+# twitter:
+#   username: akrechovetskiy # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: akrechovetskiy@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/andrii-krekhovetskyi
     - https://github.com/AKrekhovetskyi # change to your GitHub homepage
-    - https://twitter.com/akrechovetskiy # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://twitter.com/akrechovetskiy # change to your Twitter homepage
 
 # Site Verification Settings
 webmaster_verifications:
