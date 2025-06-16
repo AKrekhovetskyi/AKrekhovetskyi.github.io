@@ -4,8 +4,6 @@ date: 2025-06-14T16:27:52.415437+03:00
 categories: [Java, Statistics]
 tags: [statistics]
 ---
-
-# Trending Technologies In The Field Of Java
 ![trending-technologies-in-the-field-of-java](/assets/diagrams/2025-06-14-Java.png)
 ## Technology Frequencies
 

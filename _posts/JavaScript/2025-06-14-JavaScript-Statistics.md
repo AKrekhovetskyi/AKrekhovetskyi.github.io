@@ -4,8 +4,6 @@ date: 2025-06-14T16:27:32.067028+03:00
 categories: [JavaScript, Statistics]
 tags: [statistics]
 ---
-
-# Trending Technologies In The Field Of Javascript
 ![trending-technologies-in-the-field-of-javascript](/assets/diagrams/2025-06-14-JavaScript.png)
 ## Technology Frequencies
 

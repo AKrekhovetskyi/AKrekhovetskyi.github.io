@@ -4,8 +4,6 @@ date: 2025-06-14T14:09:42.612515+03:00
 categories: [Python, Statistics]
 tags: [statistics]
 ---
-
-# Trending Technologies In The Field Of Python
 ![trending-technologies-in-the-field-of-python](/assets/diagrams/2025-06-14-Python.png)
 ## Technology Frequencies
 
